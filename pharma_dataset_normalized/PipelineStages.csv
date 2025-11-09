@@ -1,0 +1,251 @@
+StageID,DrugID,StartDate,EndDate,StageName,Notes,ActualEndDate,Category,DateIncurred,Status,AmountUSD,Cost
+1,1,2022-05-17,2022-12-13,Discovery,Discovery completed successfully,2023-02-11,Regulatory,2022-09-02,Completed,3183403.68,18055930.49
+2,1,2023-02-11,2023-10-09,Preclinical,Preclinical completed successfully,2023-11-08,Regulatory,2023-10-24,Delayed,15207045.94,16537826.45
+3,1,2023-11-08,2024-10-03,Phase I,Phase I completed successfully,2024-10-03,Clinical,2024-06-01,Delayed,9669483.07,17915688.41
+4,1,2024-10-03,2026-07-25,Phase II,Phase II completed successfully,2026-09-23,Regulatory,2026-06-25,Completed,11737130.19,266211.15
+5,1,2026-09-23,2027-11-17,Phase III,Phase III completed successfully,2027-12-17,Regulatory,2027-06-14,Delayed,27170921.09,1871169.2
+6,2,2023-01-11,2023-10-08,Discovery,Discovery completed successfully,2023-11-07,R&D,2023-02-14,Completed,9647477.76,19003736.24
+7,2,2023-11-07,2024-12-01,Preclinical,Preclinical completed successfully,2025-01-30,Manufacturing,2023-11-27,Delayed,28523153.69,11490085.87
+8,2,2025-01-30,2025-09-27,Phase I,Phase I completed successfully,2025-10-27,R&D,2025-05-13,Delayed,18991932.64,8996488.16
+9,2,2025-10-27,2027-09-17,Phase II,Phase II completed successfully,2027-09-17,Manufacturing,2026-07-30,Delayed,8867002.07,6606857.68
+10,2,2027-09-17,2028-11-10,Phase III,Phase III completed successfully,2029-01-09,Manufacturing,2028-12-09,Delayed,20208301.84,15059871.86
+11,3,2023-08-31,2024-05-27,Discovery,Discovery completed successfully,2024-07-26,Clinical,2023-12-08,Delayed,23768213.41,15802881.95
+12,3,2024-07-26,2025-01-22,Preclinical,Preclinical completed successfully,2025-03-23,Regulatory,2024-10-28,Completed,2827062.48,9913685.08
+13,3,2025-03-23,2025-11-18,Phase I,Phase I completed successfully,2026-01-17,Manufacturing,2025-09-11,Delayed,1821006.92,11013101.2
+14,3,2026-01-17,2027-08-10,Phase II,Phase II completed successfully,2027-08-10,Clinical,2027-03-04,Completed,13301761.99,17759698.45
+15,3,2027-08-10,2028-03-07,Phase III,Phase III completed successfully,2028-04-06,Manufacturing,2027-12-15,Completed,10592358.88,2385486.98
+16,4,2022-05-05,2023-01-30,Discovery,Discovery completed successfully,2023-01-30,Clinical,2022-07-08,Delayed,4375451.29,15242137.1
+17,4,2023-01-30,2024-09-21,Preclinical,Preclinical completed successfully,2024-10-21,Manufacturing,2023-12-30,Completed,18584720.09,2067397.39
+18,4,2024-10-21,2026-05-14,Phase I,Phase I completed successfully,2026-07-13,R&D,2026-03-17,Delayed,2614793.5,14034334.17
+19,4,2026-07-13,2028-02-03,Phase II,Phase II completed successfully,2028-03-04,R&D,2026-08-14,Delayed,2275613.89,16446108.18
+20,4,2028-03-04,2029-02-27,Phase III,Phase III completed successfully,2029-03-29,Manufacturing,2028-07-19,Completed,21216642.59,1672908.17
+21,5,2023-08-24,2025-01-15,Discovery,Discovery completed successfully,2025-01-15,Regulatory,2023-11-03,Delayed,2636647.65,19733459.59
+22,5,2025-01-15,2025-08-13,Preclinical,Preclinical completed successfully,2025-09-12,Regulatory,2025-05-01,Completed,11290696.79,7444310.83
+23,5,2025-09-12,2026-06-09,Phase I,Phase I completed successfully,2026-07-09,R&D,2026-07-01,Completed,24402707.06,18947609.12
+24,5,2026-07-09,2027-01-05,Phase II,Phase II completed successfully,2027-01-05,Regulatory,2026-08-28,Completed,29581431.81,15079894.8
+25,5,2027-01-05,2027-11-01,Phase III,Phase III completed successfully,2027-12-31,Clinical,2027-04-06,Completed,11350161.61,1715839.3
+26,6,2023-03-03,2025-01-21,Discovery,Discovery completed successfully,2025-01-21,Clinical,2023-03-31,Completed,23336692.79,11190164.78
+27,6,2025-01-21,2026-05-16,Preclinical,Preclinical completed successfully,2026-05-16,R&D,2025-11-08,Delayed,12784238.08,18131769.98
+28,6,2026-05-16,2027-03-12,Phase I,Phase I completed successfully,2027-03-12,Regulatory,2027-02-16,Completed,3424804.72,9877870.83
+29,6,2027-03-12,2027-12-07,Phase II,Phase II completed successfully,2028-02-05,R&D,2027-12-17,Completed,439473.98,9399779.81
+30,6,2028-02-05,2028-08-03,Phase III,Phase III completed successfully,2028-09-02,Clinical,2028-03-07,Delayed,1783467.94,2420417.43
+31,7,2022-08-22,2023-02-18,Discovery,Discovery completed successfully,2023-02-18,Regulatory,2022-10-12,Completed,3614034.78,13001745.53
+32,7,2023-02-18,2023-12-15,Preclinical,Preclinical completed successfully,2024-02-13,Manufacturing,2023-12-30,Completed,22406741.89,11688206.86
+33,7,2024-02-13,2024-10-10,Phase I,Phase I completed successfully,2024-11-09,Manufacturing,2024-10-22,Delayed,28868959.2,7528668.06
+34,7,2024-11-09,2026-08-31,Phase II,Phase II completed successfully,2026-10-30,R&D,2025-11-15,Delayed,8642791.38,17378552.61
+35,7,2026-10-30,2028-08-20,Phase III,Phase III completed successfully,2028-08-20,R&D,2028-02-26,Delayed,6785515.57,19266289.66
+36,8,2022-08-05,2024-03-27,Discovery,Discovery completed successfully,2024-05-26,R&D,2024-05-25,Completed,463418.79,19399082.59
+37,8,2024-05-26,2026-02-15,Preclinical,Preclinical completed successfully,2026-03-17,Manufacturing,2024-12-23,Completed,1390481.37,17828305.12
+38,8,2026-03-17,2027-12-07,Phase I,Phase I completed successfully,2028-02-05,Manufacturing,2027-02-27,Completed,15878263.16,19859647.68
+39,8,2028-02-05,2028-10-02,Phase II,Phase II completed successfully,2028-11-01,Clinical,2028-10-23,Completed,2306517.29,11099392.97
+40,8,2028-11-01,2029-08-28,Phase III,Phase III completed successfully,2029-09-27,Regulatory,2029-03-05,Delayed,29082145.82,10485801.99
+41,9,2023-01-27,2024-11-17,Discovery,Discovery completed successfully,2024-12-17,Manufacturing,2024-05-21,Delayed,18919019.28,13930186.35
+42,9,2024-12-17,2025-09-13,Preclinical,Preclinical completed successfully,2025-11-12,R&D,2025-09-02,Completed,13690777.84,12569783.7
+43,9,2025-11-12,2027-06-05,Phase I,Phase I completed successfully,2027-07-05,Clinical,2026-10-11,Delayed,17570997.93,18028102.31
+44,9,2027-07-05,2028-10-27,Phase II,Phase II completed successfully,2028-11-26,Manufacturing,2027-10-16,Delayed,1458846.77,5655215.63
+45,9,2028-11-26,2029-08-23,Phase III,Phase III completed successfully,2029-09-22,Manufacturing,2029-08-24,Delayed,28517303.37,17810762.49
+46,10,2023-06-18,2024-08-11,Discovery,Discovery completed successfully,2024-09-10,Clinical,2023-07-11,Delayed,13724136.91,12421645.33
+47,10,2024-09-10,2025-05-08,Preclinical,Preclinical completed successfully,2025-05-08,R&D,2025-05-01,Completed,8393697.37,3803017.14
+48,10,2025-05-08,2026-11-29,Phase I,Phase I completed successfully,2026-11-29,Regulatory,2026-06-24,Completed,13964582.31,7099376.95
+49,10,2026-11-29,2028-10-19,Phase II,Phase II completed successfully,2028-10-19,Regulatory,2028-01-07,Completed,17551317.74,1600806.01
+50,10,2028-10-19,2030-05-12,Phase III,Phase III completed successfully,2030-06-11,Manufacturing,2030-03-16,Completed,29234404.75,19724904.35
+51,11,2022-12-05,2024-02-28,Discovery,Discovery completed successfully,2024-04-28,Regulatory,2022-12-29,Delayed,20975035.25,10745122.51
+52,11,2024-04-28,2025-01-23,Preclinical,Preclinical completed successfully,2025-03-24,Clinical,2025-03-03,Completed,9354875.73,16285210.64
+53,11,2025-03-24,2026-12-14,Phase I,Phase I completed successfully,2026-12-14,R&D,2025-09-03,Delayed,20573462.06,3294207.94
+54,11,2026-12-14,2028-11-03,Phase II,Phase II completed successfully,2028-12-03,R&D,2028-05-19,Delayed,27336722.82,16459618.0
+55,11,2028-12-03,2030-11-23,Phase III,Phase III completed successfully,2030-11-23,Manufacturing,2030-05-07,Completed,28499017.41,14528104.19
+56,12,2023-06-14,2024-08-07,Discovery,Discovery completed successfully,2024-08-07,Clinical,2023-06-22,Delayed,18441114.36,8393948.57
+57,12,2024-08-07,2025-10-31,Preclinical,Preclinical completed successfully,2025-11-30,Regulatory,2025-07-03,Completed,27988581.65,17327974.6
+58,12,2025-11-30,2026-10-26,Phase I,Phase I completed successfully,2026-10-26,Manufacturing,2026-06-11,Completed,1452038.24,576021.14
+59,12,2026-10-26,2027-08-22,Phase II,Phase II completed successfully,2027-10-21,R&D,2026-12-02,Completed,11356254.67,16220538.95
+60,12,2027-10-21,2029-08-11,Phase III,Phase III completed successfully,2029-08-11,Manufacturing,2029-01-10,Delayed,29619556.27,3050816.98
+61,13,2023-01-21,2024-09-12,Discovery,Discovery completed successfully,2024-10-12,Clinical,2024-03-22,Delayed,17864508.39,7648772.59
+62,13,2024-10-12,2026-01-05,Preclinical,Preclinical completed successfully,2026-03-06,Regulatory,2025-05-17,Completed,29100440.49,16850272.52
+63,13,2026-03-06,2026-10-02,Phase I,Phase I completed successfully,2026-10-02,Clinical,2026-03-06,Completed,25166028.27,9400428.54
+64,13,2026-10-02,2027-05-30,Phase II,Phase II completed successfully,2027-06-29,Manufacturing,2027-03-20,Delayed,12503103.12,5504471.09
+65,13,2027-06-29,2029-03-20,Phase III,Phase III completed successfully,2029-05-19,Manufacturing,2029-02-20,Delayed,1785627.35,17301211.41
+66,14,2023-02-08,2024-04-03,Discovery,Discovery completed successfully,2024-04-03,R&D,2023-09-23,Delayed,24405740.17,19994367.58
+67,14,2024-04-03,2025-10-25,Preclinical,Preclinical completed successfully,2025-10-25,Regulatory,2025-06-28,Delayed,29899441.43,11130862.53
+68,14,2025-10-25,2027-08-16,Phase I,Phase I completed successfully,2027-10-15,Regulatory,2027-09-18,Completed,23092723.71,18898076.31
+69,14,2027-10-15,2028-11-08,Phase II,Phase II completed successfully,2028-12-08,R&D,2028-02-16,Completed,25504456.98,4984594.63
+70,14,2028-12-08,2029-12-03,Phase III,Phase III completed successfully,2030-01-02,Clinical,2029-04-13,Completed,13571269.65,2626730.33
+71,15,2023-05-12,2024-07-05,Discovery,Discovery completed successfully,2024-08-04,Regulatory,2024-07-04,Completed,28626125.72,12143183.96
+72,15,2024-08-04,2025-01-31,Preclinical,Preclinical completed successfully,2025-03-02,Manufacturing,2024-12-15,Completed,6936419.88,13450428.65
+73,15,2025-03-02,2025-12-27,Phase I,Phase I completed successfully,2026-01-26,Clinical,2025-10-14,Delayed,18582034.39,7195346.22
+74,15,2026-01-26,2026-09-23,Phase II,Phase II completed successfully,2026-10-23,R&D,2026-02-08,Delayed,3495372.01,13447885.25
+75,15,2026-10-23,2027-04-21,Phase III,Phase III completed successfully,2027-05-21,R&D,2027-04-02,Delayed,15657200.26,15457751.92
+76,16,2023-05-06,2025-04-25,Discovery,Discovery completed successfully,2025-05-25,Manufacturing,2023-11-25,Delayed,15652888.68,17051020.93
+77,16,2025-05-25,2026-08-18,Preclinical,Preclinical completed successfully,2026-08-18,Manufacturing,2026-02-06,Completed,16602014.48,11240712.53
+78,16,2026-08-18,2027-12-11,Phase I,Phase I completed successfully,2027-12-11,Manufacturing,2026-11-23,Delayed,26311942.72,8099483.18
+79,16,2027-12-11,2028-08-07,Phase II,Phase II completed successfully,2028-09-06,R&D,2028-06-04,Completed,4107055.33,624214.39
+80,16,2028-09-06,2030-03-30,Phase III,Phase III completed successfully,2030-05-29,Manufacturing,2029-02-14,Completed,22678603.94,12425175.55
+81,17,2023-02-18,2024-08-11,Discovery,Discovery completed successfully,2024-09-10,Regulatory,2024-03-26,Completed,21151985.07,4298635.02
+82,17,2024-09-10,2026-01-03,Preclinical,Preclinical completed successfully,2026-01-03,R&D,2025-04-13,Completed,4177507.12,340166.08
+83,17,2026-01-03,2027-10-25,Phase I,Phase I completed successfully,2027-12-24,Clinical,2026-07-24,Delayed,10582568.01,11818857.85
+84,17,2027-12-24,2029-05-17,Phase II,Phase II completed successfully,2029-07-16,Clinical,2029-07-06,Completed,11828096.95,8777624.69
+85,17,2029-07-16,2030-04-12,Phase III,Phase III completed successfully,2030-04-12,Regulatory,2030-03-21,Completed,27134344.97,6997696.57
+86,18,2022-03-29,2023-02-22,Discovery,Discovery completed successfully,2023-04-23,Clinical,2022-07-03,Completed,15468285.73,15683877.6
+87,18,2023-04-23,2024-03-18,Preclinical,Preclinical completed successfully,2024-05-17,Manufacturing,2023-07-26,Delayed,11956629.19,12460629.67
+88,18,2024-05-17,2026-05-07,Phase I,Phase I completed successfully,2026-07-06,Manufacturing,2025-05-04,Delayed,25884674.89,18992936.44
+89,18,2026-07-06,2027-10-29,Phase II,Phase II completed successfully,2027-10-29,Manufacturing,2027-01-21,Completed,4497497.08,18535423.12
+90,18,2027-10-29,2029-07-20,Phase III,Phase III completed successfully,2029-08-19,Regulatory,2029-01-31,Delayed,14814277.16,5201975.55
+91,19,2022-04-23,2024-04-12,Discovery,Discovery completed successfully,2024-04-12,Regulatory,2022-07-16,Completed,13828159.11,19601649.88
+92,19,2024-04-12,2025-07-06,Preclinical,Preclinical completed successfully,2025-08-05,Manufacturing,2024-12-02,Completed,14829281.01,6608594.63
+93,19,2025-08-05,2026-03-03,Phase I,Phase I completed successfully,2026-04-02,Regulatory,2025-12-16,Completed,19038685.54,4840905.09
+94,19,2026-04-02,2026-11-28,Phase II,Phase II completed successfully,2027-01-27,Manufacturing,2026-09-20,Delayed,2368313.51,2621150.45
+95,19,2027-01-27,2029-01-16,Phase III,Phase III completed successfully,2029-03-17,R&D,2028-03-17,Delayed,3928570.58,3080458.74
+96,20,2022-10-06,2024-09-25,Discovery,Discovery completed successfully,2024-11-24,Clinical,2023-04-04,Delayed,4250932.46,12835451.16
+97,20,2024-11-24,2026-08-16,Preclinical,Preclinical completed successfully,2026-10-15,Clinical,2025-11-27,Completed,5538214.52,6946062.3
+98,20,2026-10-15,2028-06-06,Phase I,Phase I completed successfully,2028-06-06,Regulatory,2027-04-23,Completed,26913973.46,9505534.72
+99,20,2028-06-06,2030-03-28,Phase II,Phase II completed successfully,2030-05-27,Clinical,2029-11-24,Completed,20059976.38,3487781.43
+100,20,2030-05-27,2031-06-21,Phase III,Phase III completed successfully,2031-08-20,Manufacturing,2031-02-05,Delayed,5849441.66,865328.89
+101,21,2022-06-26,2024-04-16,Discovery,Discovery completed successfully,2024-06-15,Clinical,2022-09-23,Delayed,5151158.39,5607877.26
+102,21,2024-06-15,2025-11-07,Preclinical,Preclinical completed successfully,2025-12-07,Manufacturing,2025-02-01,Delayed,5392613.48,1819615.55
+103,21,2025-12-07,2027-04-01,Phase I,Phase I completed successfully,2027-05-31,R&D,2026-06-24,Delayed,3707012.55,9242536.42
+104,21,2027-05-31,2028-01-26,Phase II,Phase II completed successfully,2028-02-25,R&D,2027-07-14,Delayed,6269378.18,7317183.73
+105,21,2028-02-25,2029-05-20,Phase III,Phase III completed successfully,2029-06-19,Clinical,2028-06-08,Delayed,15152176.4,13823376.83
+106,22,2023-09-21,2024-05-18,Discovery,Discovery completed successfully,2024-07-17,Clinical,2023-12-31,Delayed,1275432.98,15998237.46
+107,22,2024-07-17,2025-10-10,Preclinical,Preclinical completed successfully,2025-12-09,Manufacturing,2025-03-20,Completed,18874221.65,1681092.69
+108,22,2025-12-09,2026-08-06,Phase I,Phase I completed successfully,2026-09-05,Manufacturing,2026-02-06,Delayed,26220000.86,18421404.39
+109,22,2026-09-05,2027-07-02,Phase II,Phase II completed successfully,2027-08-31,R&D,2027-06-18,Delayed,1926231.0,5573709.08
+110,22,2027-08-31,2029-06-21,Phase III,Phase III completed successfully,2029-07-21,R&D,2028-10-31,Delayed,24205418.27,14977780.82
+111,23,2022-07-23,2023-10-16,Discovery,Discovery completed successfully,2023-10-16,Clinical,2022-12-19,Delayed,5617178.48,4226519.0
+112,23,2023-10-16,2025-07-07,Preclinical,Preclinical completed successfully,2025-07-07,Clinical,2024-11-20,Completed,11177115.87,9716233.55
+113,23,2025-07-07,2026-05-03,Phase I,Phase I completed successfully,2026-05-03,Regulatory,2025-10-13,Completed,18585817.67,7409827.11
+114,23,2026-05-03,2028-02-22,Phase II,Phase II completed successfully,2028-04-22,R&D,2027-08-31,Delayed,13929788.01,14962045.22
+115,23,2028-04-22,2029-02-16,Phase III,Phase III completed successfully,2029-04-17,Manufacturing,2028-12-17,Completed,1196827.77,5086117.04
+116,24,2022-04-11,2023-03-07,Discovery,Discovery completed successfully,2023-03-07,Clinical,2023-01-09,Delayed,21429152.62,17909376.41
+117,24,2023-03-07,2023-10-03,Preclinical,Preclinical completed successfully,2023-11-02,Regulatory,2023-06-24,Completed,15399155.52,10665664.03
+118,24,2023-11-02,2025-06-24,Phase I,Phase I completed successfully,2025-08-23,Regulatory,2024-11-13,Delayed,3304443.14,8975876.72
+119,24,2025-08-23,2026-09-17,Phase II,Phase II completed successfully,2026-11-16,Clinical,2026-11-02,Delayed,16025256.27,4887286.55
+120,24,2026-11-16,2028-08-07,Phase III,Phase III completed successfully,2028-08-07,Regulatory,2027-04-13,Delayed,8150372.61,7576819.05
+121,25,2021-12-31,2023-08-23,Discovery,Discovery completed successfully,2023-09-22,Manufacturing,2022-09-16,Delayed,700128.81,6475479.35
+122,25,2023-09-22,2024-08-17,Preclinical,Preclinical completed successfully,2024-08-17,Clinical,2023-12-12,Delayed,6422295.41,6583572.18
+123,25,2024-08-17,2025-03-15,Phase I,Phase I completed successfully,2025-05-14,Manufacturing,2025-01-29,Delayed,3680887.74,17816019.25
+124,25,2025-05-14,2027-04-04,Phase II,Phase II completed successfully,2027-04-04,R&D,2025-11-10,Delayed,17848414.36,13598091.27
+125,25,2027-04-04,2027-11-30,Phase III,Phase III completed successfully,2027-11-30,Regulatory,2027-08-21,Delayed,23696220.03,9993921.87
+126,26,2023-01-26,2024-11-16,Discovery,Discovery completed successfully,2024-11-16,Manufacturing,2024-04-10,Completed,2698916.61,10765275.51
+127,26,2024-11-16,2025-12-11,Preclinical,Preclinical completed successfully,2026-01-10,Regulatory,2025-02-17,Completed,17646549.43,14921517.51
+128,26,2026-01-10,2027-08-03,Phase I,Phase I completed successfully,2027-08-03,Manufacturing,2026-09-24,Delayed,13006620.43,2595227.04
+129,26,2027-08-03,2028-08-27,Phase II,Phase II completed successfully,2028-09-26,R&D,2027-08-10,Delayed,8584899.58,7293491.81
+130,26,2028-09-26,2029-10-21,Phase III,Phase III completed successfully,2029-10-21,Regulatory,2029-08-31,Completed,19412925.52,11437027.18
+131,27,2023-05-03,2024-08-25,Discovery,Discovery completed successfully,2024-08-25,Clinical,2024-01-09,Completed,10747292.1,19730979.21
+132,27,2024-08-25,2025-11-18,Preclinical,Preclinical completed successfully,2025-12-18,Clinical,2025-04-29,Delayed,18212667.1,4782674.5
+133,27,2025-12-18,2027-08-10,Phase I,Phase I completed successfully,2027-10-09,R&D,2026-11-21,Completed,3143295.93,3099539.83
+134,27,2027-10-09,2028-04-06,Phase II,Phase II completed successfully,2028-05-06,Clinical,2027-10-18,Completed,7454136.08,3255593.4
+135,27,2028-05-06,2030-03-27,Phase III,Phase III completed successfully,2030-05-26,Manufacturing,2029-03-18,Completed,5678354.02,5737648.62
+136,28,2022-11-10,2024-02-03,Discovery,Discovery completed successfully,2024-02-03,Regulatory,2024-01-18,Completed,5283870.5,17940470.22
+137,28,2024-02-03,2024-08-31,Preclinical,Preclinical completed successfully,2024-08-31,Manufacturing,2024-02-08,Delayed,2498989.0,10514002.22
+138,28,2024-08-31,2025-04-28,Phase I,Phase I completed successfully,2025-04-28,Manufacturing,2025-04-17,Completed,12370865.13,19648453.41
+139,28,2025-04-28,2027-02-17,Phase II,Phase II completed successfully,2027-04-18,Clinical,2026-01-11,Completed,3449963.17,7987219.2
+140,28,2027-04-18,2028-07-11,Phase III,Phase III completed successfully,2028-08-10,R&D,2028-07-15,Delayed,29087165.95,17316867.16
+141,29,2022-12-28,2024-01-22,Discovery,Discovery completed successfully,2024-03-22,Manufacturing,2023-01-06,Completed,24530454.92,5195161.4
+142,29,2024-03-22,2024-11-17,Preclinical,Preclinical completed successfully,2025-01-16,Regulatory,2024-11-26,Completed,5209538.86,13389432.24
+143,29,2025-01-16,2026-11-07,Phase I,Phase I completed successfully,2027-01-06,R&D,2025-11-06,Delayed,27888342.07,11157419.72
+144,29,2027-01-06,2028-09-27,Phase II,Phase II completed successfully,2028-09-27,Manufacturing,2027-01-27,Delayed,17191219.42,5635582.92
+145,29,2028-09-27,2029-11-21,Phase III,Phase III completed successfully,2030-01-20,R&D,2029-09-08,Delayed,23107838.7,3781522.78
+146,30,2021-11-09,2022-07-07,Discovery,Discovery completed successfully,2022-08-06,Clinical,2021-12-09,Completed,9778009.17,8537456.95
+147,30,2022-08-06,2024-07-26,Preclinical,Preclinical completed successfully,2024-09-24,Regulatory,2023-07-07,Completed,15277550.32,4886074.16
+148,30,2024-09-24,2025-04-22,Phase I,Phase I completed successfully,2025-05-22,Regulatory,2024-10-07,Completed,3533621.06,12231869.85
+149,30,2025-05-22,2027-01-12,Phase II,Phase II completed successfully,2027-03-13,Manufacturing,2026-02-04,Completed,8730053.54,11645702.52
+150,30,2027-03-13,2028-01-07,Phase III,Phase III completed successfully,2028-01-07,Manufacturing,2027-12-23,Completed,4715445.19,9648745.03
+151,31,2022-03-12,2023-06-05,Discovery,Discovery completed successfully,2023-06-05,R&D,2022-07-01,Completed,16024424.03,1083879.56
+152,31,2023-06-05,2024-01-01,Preclinical,Preclinical completed successfully,2024-01-31,Regulatory,2023-08-18,Delayed,10164467.92,2731572.8
+153,31,2024-01-31,2025-12-21,Phase I,Phase I completed successfully,2026-01-20,Regulatory,2025-06-10,Completed,1994911.62,19799706.64
+154,31,2026-01-20,2027-01-15,Phase II,Phase II completed successfully,2027-02-14,Regulatory,2026-08-24,Completed,9738379.96,16206995.19
+155,31,2027-02-14,2028-06-08,Phase III,Phase III completed successfully,2028-07-08,R&D,2027-11-29,Delayed,7713755.58,13645979.31
+156,32,2022-08-17,2024-03-09,Discovery,Discovery completed successfully,2024-04-08,Manufacturing,2023-09-16,Delayed,22830813.01,11932992.88
+157,32,2024-04-08,2025-08-01,Preclinical,Preclinical completed successfully,2025-08-01,Manufacturing,2025-05-03,Delayed,14200128.04,8266226.24
+158,32,2025-08-01,2026-12-24,Phase I,Phase I completed successfully,2027-02-22,Regulatory,2027-02-16,Completed,10531161.17,18594106.43
+159,32,2027-02-22,2028-09-14,Phase II,Phase II completed successfully,2028-09-14,Manufacturing,2027-05-11,Completed,24935520.29,19302286.87
+160,32,2028-09-14,2030-08-05,Phase III,Phase III completed successfully,2030-09-04,Regulatory,2029-07-30,Completed,3816486.98,14630806.13
+161,33,2023-06-21,2024-02-16,Discovery,Discovery completed successfully,2024-03-17,Regulatory,2023-07-27,Delayed,28156379.66,3665599.67
+162,33,2024-03-17,2025-11-07,Preclinical,Preclinical completed successfully,2026-01-06,Manufacturing,2024-12-05,Completed,2088238.39,14835356.95
+163,33,2026-01-06,2027-08-29,Phase I,Phase I completed successfully,2027-09-28,Manufacturing,2026-10-05,Completed,17276746.08,16844484.1
+164,33,2027-09-28,2029-02-19,Phase II,Phase II completed successfully,2029-04-20,Manufacturing,2028-12-29,Delayed,4279194.06,15915582.87
+165,33,2029-04-20,2029-11-16,Phase III,Phase III completed successfully,2029-11-16,Manufacturing,2029-07-15,Delayed,6128656.87,3314936.06
+166,34,2021-11-16,2023-09-07,Discovery,Discovery completed successfully,2023-11-06,Clinical,2022-09-09,Completed,5011547.36,16300765.67
+167,34,2023-11-06,2024-09-01,Preclinical,Preclinical completed successfully,2024-10-31,Manufacturing,2024-10-21,Completed,19989396.9,10485155.22
+168,34,2024-10-31,2025-08-27,Phase I,Phase I completed successfully,2025-08-27,Clinical,2025-04-16,Delayed,10829031.48,17550150.79
+169,34,2025-08-27,2027-01-19,Phase II,Phase II completed successfully,2027-02-18,R&D,2026-05-22,Completed,11834108.71,16341158.82
+170,34,2027-02-18,2028-10-10,Phase III,Phase III completed successfully,2028-11-09,Regulatory,2027-09-02,Delayed,13230133.77,7570041.37
+171,35,2023-04-02,2023-11-28,Discovery,Discovery completed successfully,2024-01-27,Clinical,2023-08-13,Delayed,13934125.59,6062488.59
+172,35,2024-01-27,2025-07-20,Preclinical,Preclinical completed successfully,2025-08-19,Regulatory,2025-04-27,Completed,22453520.47,10079271.78
+173,35,2025-08-19,2026-05-16,Phase I,Phase I completed successfully,2026-05-16,Clinical,2025-11-07,Delayed,7043159.58,17996512.74
+174,35,2026-05-16,2028-03-06,Phase II,Phase II completed successfully,2028-04-05,R&D,2028-02-16,Delayed,11578347.52,10893879.58
+175,35,2028-04-05,2029-05-30,Phase III,Phase III completed successfully,2029-07-29,Manufacturing,2028-11-19,Completed,27203516.12,12503548.02
+176,36,2022-02-05,2023-05-01,Discovery,Discovery completed successfully,2023-06-30,Manufacturing,2022-07-23,Completed,3595251.42,18799650.87
+177,36,2023-06-30,2024-03-26,Preclinical,Preclinical completed successfully,2024-03-26,R&D,2023-08-11,Delayed,18868470.79,6731367.01
+178,36,2024-03-26,2025-02-19,Phase I,Phase I completed successfully,2025-04-20,Manufacturing,2024-09-15,Completed,4264234.97,15890802.53
+179,36,2025-04-20,2026-08-13,Phase II,Phase II completed successfully,2026-10-12,Regulatory,2025-12-26,Completed,18640175.4,10692548.78
+180,36,2026-10-12,2028-09-01,Phase III,Phase III completed successfully,2028-10-31,Regulatory,2028-02-29,Delayed,26827388.23,15782514.36
+181,37,2022-09-07,2023-08-03,Discovery,Discovery completed successfully,2023-10-02,Clinical,2023-09-12,Delayed,4635078.9,6268855.25
+182,37,2023-10-02,2025-07-23,Preclinical,Preclinical completed successfully,2025-07-23,R&D,2024-09-07,Completed,7529825.28,14891728.54
+183,37,2025-07-23,2026-05-19,Phase I,Phase I completed successfully,2026-05-19,Manufacturing,2026-04-29,Completed,1102619.8,11419299.21
+184,37,2026-05-19,2027-10-11,Phase II,Phase II completed successfully,2027-12-10,Regulatory,2027-07-24,Delayed,22897514.7,17541474.45
+185,37,2027-12-10,2029-10-30,Phase III,Phase III completed successfully,2029-10-30,R&D,2028-10-21,Completed,10328244.29,16434083.23
+186,38,2021-11-15,2023-02-08,Discovery,Discovery completed successfully,2023-03-10,Manufacturing,2022-11-08,Delayed,3407888.93,16936723.22
+187,38,2023-03-10,2024-09-30,Preclinical,Preclinical completed successfully,2024-11-29,R&D,2024-01-31,Completed,3911911.0,7975881.45
+188,38,2024-11-29,2026-03-24,Phase I,Phase I completed successfully,2026-05-23,R&D,2025-07-01,Delayed,23939131.44,3040852.68
+189,38,2026-05-23,2028-01-13,Phase II,Phase II completed successfully,2028-03-13,Regulatory,2026-09-30,Completed,6954616.72,14458938.74
+190,38,2028-03-13,2030-02-01,Phase III,Phase III completed successfully,2030-04-02,Clinical,2028-10-15,Completed,21629092.44,12840895.28
+191,39,2023-09-08,2025-03-31,Discovery,Discovery completed successfully,2025-05-30,R&D,2025-04-19,Completed,20849058.49,10877352.64
+192,39,2025-05-30,2027-03-21,Preclinical,Preclinical completed successfully,2027-03-21,Regulatory,2026-09-17,Completed,7628791.86,6946635.07
+193,39,2027-03-21,2028-02-14,Phase I,Phase I completed successfully,2028-03-15,Clinical,2027-07-22,Delayed,5529771.73,18173588.7
+194,39,2028-03-15,2030-01-04,Phase II,Phase II completed successfully,2030-02-03,R&D,2030-01-20,Delayed,17543414.66,8046985.76
+195,39,2030-02-03,2031-01-29,Phase III,Phase III completed successfully,2031-03-30,Regulatory,2030-08-26,Completed,13913973.53,18948302.63
+196,40,2022-10-27,2024-01-20,Discovery,Discovery completed successfully,2024-03-20,R&D,2023-04-09,Completed,4685206.95,11745285.15
+197,40,2024-03-20,2026-03-10,Preclinical,Preclinical completed successfully,2026-05-09,Clinical,2026-03-26,Completed,15226071.5,12248512.0
+198,40,2026-05-09,2027-09-01,Phase I,Phase I completed successfully,2027-10-31,R&D,2026-07-14,Completed,641494.5,17448871.98
+199,40,2027-10-31,2028-06-27,Phase II,Phase II completed successfully,2028-06-27,Regulatory,2028-04-20,Completed,27970336.65,11324407.01
+200,40,2028-06-27,2030-06-17,Phase III,Phase III completed successfully,2030-07-17,R&D,2029-10-14,Delayed,20929859.63,18453862.65
+201,41,2022-03-24,2024-02-12,Discovery,Discovery completed successfully,2024-03-13,Regulatory,2023-06-19,Delayed,21246435.17,3093153.91
+202,41,2024-03-13,2025-04-07,Preclinical,Preclinical completed successfully,2025-06-06,Manufacturing,2024-06-27,Delayed,17331021.97,12153965.18
+203,41,2025-06-06,2027-01-27,Phase I,Phase I completed successfully,2027-01-27,R&D,2025-06-14,Completed,12781507.07,14742062.5
+204,41,2027-01-27,2028-09-18,Phase II,Phase II completed successfully,2028-10-18,Manufacturing,2027-06-29,Delayed,28037573.74,18515091.83
+205,41,2028-10-18,2029-10-13,Phase III,Phase III completed successfully,2029-11-12,Clinical,2029-04-14,Delayed,13580097.2,2309099.01
+206,42,2023-01-12,2024-05-06,Discovery,Discovery completed successfully,2024-07-05,Regulatory,2023-01-25,Delayed,29546751.85,16786016.82
+207,42,2024-07-05,2025-05-01,Preclinical,Preclinical completed successfully,2025-05-31,R&D,2024-09-12,Delayed,3827414.17,18420795.56
+208,42,2025-05-31,2026-06-25,Phase I,Phase I completed successfully,2026-07-25,R&D,2025-06-03,Delayed,26109901.23,10400819.24
+209,42,2026-07-25,2028-03-16,Phase II,Phase II completed successfully,2028-03-16,Clinical,2027-10-18,Completed,17779135.53,8010103.94
+210,42,2028-03-16,2028-10-12,Phase III,Phase III completed successfully,2028-11-11,Manufacturing,2028-05-27,Delayed,1737373.0,6737184.97
+211,43,2022-07-25,2023-08-19,Discovery,Discovery completed successfully,2023-08-19,Regulatory,2022-09-23,Delayed,24105318.11,142408.86
+212,43,2023-08-19,2024-08-13,Preclinical,Preclinical completed successfully,2024-08-13,Manufacturing,2024-04-29,Delayed,10071625.23,7993465.44
+213,43,2024-08-13,2026-05-05,Phase I,Phase I completed successfully,2026-06-04,Manufacturing,2026-03-17,Completed,16168128.53,18401119.55
+214,43,2026-06-04,2027-01-30,Phase II,Phase II completed successfully,2027-03-01,Manufacturing,2026-07-13,Completed,10455745.23,6971716.38
+215,43,2027-03-01,2028-02-24,Phase III,Phase III completed successfully,2028-04-24,Regulatory,2027-05-15,Completed,22151287.32,9071747.92
+216,44,2021-11-19,2022-06-17,Discovery,Discovery completed successfully,2022-07-17,Manufacturing,2022-01-05,Delayed,6815684.21,9076168.35
+217,44,2022-07-17,2023-10-10,Preclinical,Preclinical completed successfully,2023-12-09,R&D,2023-07-12,Completed,4311624.91,3568920.38
+218,44,2023-12-09,2025-07-01,Phase I,Phase I completed successfully,2025-07-01,Regulatory,2024-04-10,Delayed,15001196.4,8407562.72
+219,44,2025-07-01,2026-12-23,Phase II,Phase II completed successfully,2027-01-22,R&D,2026-03-29,Delayed,27453892.44,7279758.29
+220,44,2027-01-22,2027-08-20,Phase III,Phase III completed successfully,2027-10-19,Clinical,2027-01-24,Delayed,17459591.67,12663672.54
+221,45,2023-01-28,2024-12-18,Discovery,Discovery completed successfully,2025-01-17,R&D,2024-10-30,Delayed,491524.25,13287570.57
+222,45,2025-01-17,2026-11-08,Preclinical,Preclinical completed successfully,2026-12-08,Regulatory,2026-02-20,Completed,5423275.41,19223352.83
+223,45,2026-12-08,2027-10-04,Phase I,Phase I completed successfully,2027-10-04,Manufacturing,2027-04-30,Delayed,4545015.56,8321751.27
+224,45,2027-10-04,2029-01-26,Phase II,Phase II completed successfully,2029-03-27,Regulatory,2028-06-14,Completed,2651955.08,19937641.32
+225,45,2029-03-27,2030-03-22,Phase III,Phase III completed successfully,2030-05-21,Manufacturing,2029-07-03,Completed,15115630.81,11927931.1
+226,46,2022-07-16,2023-02-11,Discovery,Discovery completed successfully,2023-02-11,Clinical,2022-09-30,Delayed,2105586.67,15011711.38
+227,46,2023-02-11,2024-11-02,Preclinical,Preclinical completed successfully,2025-01-01,Manufacturing,2023-08-13,Completed,6376177.23,17966183.07
+228,46,2025-01-01,2026-10-23,Phase I,Phase I completed successfully,2026-10-23,Regulatory,2026-04-08,Delayed,6233675.25,3854220.03
+229,46,2026-10-23,2027-09-18,Phase II,Phase II completed successfully,2027-10-18,Regulatory,2027-07-17,Delayed,1192835.07,9467735.55
+230,46,2027-10-18,2029-08-08,Phase III,Phase III completed successfully,2029-10-07,Manufacturing,2029-01-31,Delayed,16988749.88,1360887.36
+231,47,2022-02-25,2023-11-17,Discovery,Discovery completed successfully,2023-11-17,Regulatory,2023-03-22,Delayed,23288275.74,9093112.25
+232,47,2023-11-17,2024-08-13,Preclinical,Preclinical completed successfully,2024-09-12,Regulatory,2024-06-01,Completed,15779269.05,8843216.8
+233,47,2024-09-12,2026-06-04,Phase I,Phase I completed successfully,2026-07-04,Clinical,2026-05-14,Completed,12082815.52,11214824.61
+234,47,2026-07-04,2028-06-23,Phase II,Phase II completed successfully,2028-07-23,Clinical,2028-06-28,Delayed,4741683.35,3679466.2
+235,47,2028-07-23,2029-05-19,Phase III,Phase III completed successfully,2029-07-18,Clinical,2029-07-01,Completed,25867390.07,18925003.47
+236,48,2023-08-28,2025-08-17,Discovery,Discovery completed successfully,2025-10-16,R&D,2025-02-25,Completed,11261948.56,5451356.23
+237,48,2025-10-16,2026-04-14,Preclinical,Preclinical completed successfully,2026-05-14,Regulatory,2025-10-16,Delayed,19355586.34,8204246.71
+238,48,2026-05-14,2027-03-10,Phase I,Phase I completed successfully,2027-04-09,Clinical,2026-06-19,Delayed,859052.03,3165244.32
+239,48,2027-04-09,2029-01-28,Phase II,Phase II completed successfully,2029-03-29,Manufacturing,2029-02-17,Completed,21507569.64,13195532.64
+240,48,2029-03-29,2030-01-23,Phase III,Phase III completed successfully,2030-03-24,Clinical,2030-01-25,Delayed,910170.18,4478344.63
+241,49,2022-11-09,2024-07-31,Discovery,Discovery completed successfully,2024-09-29,Manufacturing,2023-11-27,Delayed,7009136.42,13454260.23
+242,49,2024-09-29,2025-08-25,Preclinical,Preclinical completed successfully,2025-09-24,Regulatory,2024-10-14,Delayed,689345.08,2126966.21
+243,49,2025-09-24,2026-11-18,Phase I,Phase I completed successfully,2027-01-17,Manufacturing,2026-11-23,Completed,24017490.95,3611966.01
+244,49,2027-01-17,2028-02-11,Phase II,Phase II completed successfully,2028-03-12,Regulatory,2027-02-15,Completed,19617108.62,4801746.48
+245,49,2028-03-12,2029-06-05,Phase III,Phase III completed successfully,2029-07-05,Clinical,2028-07-28,Delayed,3073297.64,4901285.21
+246,50,2023-10-10,2025-02-01,Discovery,Discovery completed successfully,2025-03-03,Regulatory,2024-03-16,Delayed,21695781.26,17121144.54
+247,50,2025-03-03,2026-05-27,Preclinical,Preclinical completed successfully,2026-05-27,Manufacturing,2025-10-02,Delayed,24923573.95,7973811.42
+248,50,2026-05-27,2027-10-19,Phase I,Phase I completed successfully,2027-10-19,Regulatory,2027-07-05,Completed,20075745.58,4139436.69
+249,50,2027-10-19,2029-01-11,Phase II,Phase II completed successfully,2029-03-12,R&D,2028-05-01,Delayed,8865117.13,17931899.58
+250,50,2029-03-12,2030-11-02,Phase III,Phase III completed successfully,2031-01-01,Regulatory,2029-07-17,Delayed,488757.51,1755895.19

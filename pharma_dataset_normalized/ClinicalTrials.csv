@@ -1,0 +1,101 @@
+TrialID,DrugID,StageID,TrialName,Location,NumberOfPatients,StartDate,EndDate,Result
+1,19,2,Trial_1,Avilaport,789,2024-06-17,2024-11-22,Negative
+2,20,1,Trial_2,Thomasside,1500,2024-02-16,2025-07-09,Negative
+3,18,1,Trial_3,Gregoryville,161,2023-09-30,2024-07-07,Ongoing
+4,45,2,Trial_4,North Melissa,1356,2023-12-14,2025-03-18,Terminated
+5,7,1,Trial_5,Katherineland,1225,2024-07-19,2025-01-02,Ongoing
+6,31,4,Trial_6,Sanchezberg,952,2022-12-20,2025-04-05,Ongoing
+7,12,1,Trial_7,Henryborough,567,2023-10-31,2025-01-04,Terminated
+8,8,1,Trial_8,South Priscillastad,870,2023-02-05,2025-10-20,Terminated
+9,5,5,Trial_9,Lake Victorchester,1339,2024-08-22,2024-10-29,Positive
+10,10,2,Trial_10,New Kristenchester,1711,2023-04-19,2024-03-02,Ongoing
+11,6,2,Trial_11,Mooreport,292,2023-10-07,2025-02-09,Terminated
+12,39,5,Trial_12,North Samantha,1669,2023-02-05,2023-07-15,Negative
+13,50,5,Trial_13,West John,829,2024-05-17,2025-08-08,Terminated
+14,29,3,Trial_14,Lopezside,1811,2024-05-18,2025-02-08,Terminated
+15,20,5,Trial_15,Hernandeztown,1321,2023-03-08,2024-12-19,Positive
+16,40,1,Trial_16,West Henryfort,1990,2024-06-10,2025-04-18,Negative
+17,41,2,Trial_17,Hopkinsmouth,591,2023-02-10,2025-08-30,Positive
+18,11,2,Trial_18,Gonzalesfort,405,2024-01-01,2025-09-28,Positive
+19,11,1,Trial_19,Port Davidside,886,2023-08-18,2025-08-28,Terminated
+20,45,5,Trial_20,Erinchester,1012,2024-04-12,2024-05-08,Ongoing
+21,3,2,Trial_21,Ramireztown,640,2024-10-22,2025-08-07,Ongoing
+22,45,4,Trial_22,Seanshire,195,2022-12-14,2025-04-13,Negative
+23,17,5,Trial_23,East Vickiemouth,1404,2023-05-10,2025-10-16,Negative
+24,28,1,Trial_24,Delgadoview,1165,2024-07-07,2025-07-23,Negative
+25,42,2,Trial_25,Jacobsonville,1910,2023-12-23,2025-08-14,Ongoing
+26,10,1,Trial_26,Sandrabury,172,2023-03-12,2024-09-19,Negative
+27,20,5,Trial_27,West Jose,1583,2024-08-28,2025-02-09,Ongoing
+28,29,1,Trial_28,Port Christian,1009,2024-09-10,2025-07-05,Ongoing
+29,45,4,Trial_29,West Ashleymouth,1980,2023-01-09,2024-02-26,Ongoing
+30,33,5,Trial_30,New Theresa,1061,2023-02-12,2024-07-14,Terminated
+31,6,5,Trial_31,Joshuabury,131,2022-11-01,2024-08-07,Terminated
+32,48,3,Trial_32,Lake Gabriellemouth,1286,2024-05-22,2024-07-02,Ongoing
+33,2,1,Trial_33,Bernardview,518,2023-03-28,2025-09-13,Positive
+34,49,3,Trial_34,South Regina,1230,2023-11-10,2024-08-16,Positive
+35,49,2,Trial_35,New Angelabury,1013,2024-03-12,2025-04-05,Terminated
+36,18,2,Trial_36,Lopezburgh,1248,2023-04-20,2025-03-11,Terminated
+37,41,4,Trial_37,North Frankmouth,236,2023-01-12,2025-06-20,Terminated
+38,23,4,Trial_38,North Thomasview,732,2023-08-13,2023-09-20,Ongoing
+39,43,1,Trial_39,North Teresafort,1806,2022-12-09,2023-08-23,Negative
+40,22,4,Trial_40,Elizabethtown,1470,2023-08-08,2024-06-12,Terminated
+41,19,4,Trial_41,Stephanieville,1716,2024-09-09,2025-08-10,Positive
+42,30,1,Trial_42,Thomasborough,694,2023-08-07,2025-04-23,Ongoing
+43,21,1,Trial_43,West Danielleland,1632,2022-12-20,2025-07-06,Terminated
+44,33,1,Trial_44,New Thomas,1396,2024-09-10,2025-09-25,Terminated
+45,27,1,Trial_45,North Lisaport,434,2023-09-04,2023-09-16,Ongoing
+46,40,4,Trial_46,South Joshuaview,1330,2023-05-10,2024-05-30,Terminated
+47,49,1,Trial_47,New Amyshire,466,2023-01-02,2024-01-13,Ongoing
+48,36,2,Trial_48,West Tonya,1949,2024-02-17,2025-07-08,Ongoing
+49,29,4,Trial_49,South Anitafurt,298,2023-12-29,2024-04-14,Positive
+50,41,5,Trial_50,New Emma,1686,2022-11-09,2024-05-06,Negative
+51,46,2,Trial_51,Lawrenceport,686,2023-02-15,2023-04-29,Positive
+52,36,4,Trial_52,Jamesbury,240,2023-05-31,2025-09-22,Negative
+53,8,4,Trial_53,East Ellenburgh,1989,2024-10-14,2025-05-14,Positive
+54,42,2,Trial_54,Lake Alexander,1070,2023-05-28,2025-08-23,Ongoing
+55,33,3,Trial_55,Richardfurt,900,2023-04-06,2024-03-04,Terminated
+56,31,2,Trial_56,New Omarmouth,985,2023-07-16,2024-07-08,Negative
+57,25,2,Trial_57,Lake Alexberg,1937,2022-11-30,2024-03-03,Negative
+58,5,3,Trial_58,Bethanytown,1632,2023-12-04,2025-09-16,Terminated
+59,22,5,Trial_59,West Kelsey,597,2023-10-27,2025-10-13,Positive
+60,19,3,Trial_60,East Wendyton,1765,2023-10-17,2025-01-11,Terminated
+61,10,4,Trial_61,Ellishaven,1153,2023-03-16,2023-11-05,Terminated
+62,23,3,Trial_62,Harrisborough,1180,2023-07-24,2025-07-18,Terminated
+63,30,3,Trial_63,New Josephstad,1830,2023-11-20,2025-06-15,Negative
+64,45,2,Trial_64,Port William,1221,2024-07-01,2024-10-11,Terminated
+65,15,4,Trial_65,Rossport,139,2024-04-13,2024-10-17,Ongoing
+66,48,4,Trial_66,East Kimberly,1494,2024-08-08,2025-07-26,Terminated
+67,25,2,Trial_67,North Kaitlynview,1064,2022-11-15,2022-12-04,Positive
+68,9,5,Trial_68,Tuckerburgh,1258,2024-07-25,2025-02-08,Ongoing
+69,7,4,Trial_69,Johnsonland,254,2023-05-07,2025-10-14,Terminated
+70,1,2,Trial_70,South Christinefurt,889,2023-12-27,2024-07-19,Negative
+71,5,4,Trial_71,West Kathleenburgh,1650,2022-12-25,2025-04-06,Ongoing
+72,22,5,Trial_72,Daniellefurt,1468,2024-05-15,2025-03-01,Terminated
+73,42,1,Trial_73,Jacobmouth,1794,2023-11-05,2025-04-04,Ongoing
+74,44,5,Trial_74,East Laura,828,2023-09-05,2025-09-13,Ongoing
+75,41,4,Trial_75,North Ronald,1836,2024-10-04,2025-08-09,Positive
+76,40,1,Trial_76,East Josephhaven,530,2023-02-19,2023-08-08,Ongoing
+77,15,1,Trial_77,Port Robert,938,2024-04-10,2024-07-29,Positive
+78,49,1,Trial_78,Stephenhaven,958,2023-07-03,2025-08-27,Negative
+79,45,3,Trial_79,East Richardtown,1900,2023-06-26,2025-05-26,Positive
+80,3,3,Trial_80,Monicatown,1680,2023-10-29,2025-09-30,Positive
+81,19,3,Trial_81,Kevinland,817,2024-09-27,2025-09-15,Terminated
+82,10,2,Trial_82,Port Patrickburgh,1137,2023-03-19,2023-12-14,Terminated
+83,37,2,Trial_83,Sweeneyberg,398,2023-04-03,2023-12-27,Negative
+84,6,5,Trial_84,Lake Thomasmouth,1833,2024-02-29,2025-10-23,Terminated
+85,40,2,Trial_85,North Christinashire,1069,2024-06-23,2024-09-08,Negative
+86,15,4,Trial_86,West Caitlyn,1356,2024-02-03,2024-08-19,Ongoing
+87,30,3,Trial_87,West Christopher,1415,2023-02-08,2023-11-26,Positive
+88,30,3,Trial_88,Lisaborough,1437,2024-02-02,2025-07-08,Negative
+89,5,4,Trial_89,Fishertown,1985,2023-06-16,2024-07-05,Ongoing
+90,38,3,Trial_90,Riceville,1358,2022-11-23,2023-09-04,Terminated
+91,45,3,Trial_91,Stokesview,985,2024-03-13,2025-04-01,Ongoing
+92,13,4,Trial_92,Suttonview,1797,2022-11-21,2024-02-05,Terminated
+93,7,2,Trial_93,West Josemouth,831,2023-01-03,2025-06-08,Ongoing
+94,37,3,Trial_94,West Adrienne,1482,2023-01-30,2024-01-13,Ongoing
+95,2,4,Trial_95,Alexandrashire,612,2024-10-12,2025-09-21,Positive
+96,37,1,Trial_96,Port Anthony,1914,2023-01-20,2023-04-16,Terminated
+97,19,2,Trial_97,Jamesburgh,1293,2024-02-19,2024-05-18,Ongoing
+98,15,2,Trial_98,West Jodyland,1321,2022-12-14,2023-09-25,Ongoing
+99,44,2,Trial_99,East Debrashire,1336,2024-02-06,2025-04-16,Positive
+100,41,1,Trial_100,Traciburgh,682,2024-09-07,2025-03-25,Terminated
