@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Project Title</title>
+
+    <!-- Basic metadata -->
+    <meta name="description" content="Short description of this project or page." />
+    <meta name="author" content="Your Name" />
+
+    <!-- Minimal styles -->
+    <style>
+        :root{
+            --bg:#0f1724;
+            --card:#0b1220;
+            --muted:#9aa4b2;
+            --accent:#4f46e5;
+            --radius:10px;
+            --max-width:980px;
+        }
+        html,body{height:100%}
+        body{
+            margin:0;
+            font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+            background:linear-gradient(180deg,var(--bg),#051127);
+            color:#e6eef8;
+            -webkit-font-smoothing:antialiased;
+            -moz-osx-font-smoothing:grayscale;
+            padding:32px;
+            display:flex;
+            align-items:flex-start;
+            justify-content:center;
+        }
+        .container{
+            width:100%;
+            max-width:var(--max-width);
+        }
+        header{
+            display:flex;
+            align-items:center;
+            justify-content:space-between;
+            gap:16px;
+            margin-bottom:24px;
+        }
+        .brand{
+            display:flex;
+            align-items:center;
+            gap:12px;
+        }
+        .logo{
+            width:44px;
+            height:44px;
+            border-radius:8px;
+            background:linear-gradient(135deg,var(--accent),#06b6d4);
+            display:inline-block;
+            box-shadow:0 6px 18px rgba(0,0,0,.45);
+        }
+        h1{font-size:18px;margin:0}
+        p.lead{margin:0;color:var(--muted);font-size:13px}
+
+        nav a{
+            color:var(--muted);
+            text-decoration:none;
+            margin-left:18px;
+            font-size:14px;
+        }
+        main{
+            background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+            border-radius:var(--radius);
+            padding:24px;
+            box-shadow:0 8px 30px rgba(2,6,23,0.6);
+        }
+        .grid{
+            display:grid;
+            grid-template-columns:1fr 320px;
+            gap:20px;
+            align-items:start;
+        }
+        .card{
+            background:rgba(255,255,255,0.02);
+            padding:16px;
+            border-radius:12px;
+            border:1px solid rgba(255,255,255,0.03);
+        }
+        h2{margin-top:0;margin-bottom:8px}
+        footer{
+            margin-top:18px;
+            color:var(--muted);
+            font-size:13px;
+            text-align:center;
+        }
+
+        /* Responsive */
+        @media (max-width:840px){
+            .grid{grid-template-columns:1fr}
+            body{padding:20px}
+        }
+    </style>
+</head>
+<body>
+    <div class="container" role="document">
+        <header>
+            <div class="brand">
+                <span class="logo" aria-hidden="true"></span>
+                <div>
+                    <h1>Project Title</h1>
+                    <p class="lead">A short one-line description or tagline.</p>
+                </div>
+            </div>
+
+            <nav aria-label="Primary">
+                <a href="#">Home</a>
+                <a href="#">Docs</a>
+                <a href="#">GitHub</a>
+            </nav>
+        </header>
+
+        <main>
+            <div class="grid">
+                <section class="card" aria-labelledby="main-heading">
+                    <h2 id="main-heading">Welcome</h2>
+                    <p>This is a starting template for a small project. Replace or extend the content below:</p>
+
+                    <h3>Getting started</h3>
+                    <ul>
+                        <li>Open this file as index.html in your browser.</li>
+                        <li>Edit content inside &lt;main&gt; and add styles or scripts.</li>
+                        <li>Use semantic HTML and accessible attributes.</li>
+                    </ul>
+
+                    <h3>Example code block</h3>
+                    <pre style="background:#081226;padding:12px;border-radius:8px;overflow:auto;font-size:13px">
+&lt;!-- copy into a new file --&gt;
+&lt;script&gt;
+console.log('Hello, world!');
+&lt;/script&gt;
+                    </pre>
+                </section>
+
+                <aside class="card" aria-labelledby="meta-heading">
+                    <h2 id="meta-heading">Meta</h2>
+                    <p style="color:var(--muted);font-size:13px">Quick links and information.</p>
+                    <ul style="margin-top:12px">
+                        <li><strong>Author:</strong> Your Name</li>
+                        <li><strong>License:</strong> MIT (or choose yours)</li>
+                        <li><strong>Viewport:</strong> Responsive</li>
+                    </ul>
+                </aside>
+            </div>
+
+            <footer>
+                <p>Built with a minimal template • Replace this footer as needed.</p>
+            </footer>
+        </main>
+    </div>
+
+    <!-- Optional minimal script -->
+    <script>
+        // Simple enhancement: log readiness
+        (function(){
+            if (typeof console !== 'undefined') console.log('Index template loaded');
+        })();
+    </script>
+</body>
+</html>
