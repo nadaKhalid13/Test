@@ -1,0 +1,51 @@
+DrugID,ScientistID,DrugName,TherapeuticArea,DrugType,PatentStatus
+1,3,Oncocwgw,Cardiology,Vaccine,Pending
+2,8,Oncopfbe,Immunology,Vaccine,Granted
+3,12,Cardioniil,Neurology,Vaccine,Pending
+4,9,Oncorxna,Endocrinology,Biologic,Expired
+5,8,Cardiolonj,Immunology,Gene Therapy,Granted
+6,18,Cardiognxw,Neurology,Small Molecule,Pending
+7,2,Neurovyyz,Immunology,Vaccine,Pending
+8,7,Endowhap,Neurology,Biologic,Expired
+9,16,Immunowpha,Immunology,Biologic,Granted
+10,5,Cardionybf,Endocrinology,Vaccine,Expired
+11,19,Immunouuuu,Endocrinology,Gene Therapy,Granted
+12,8,Cardioojbg,Endocrinology,Gene Therapy,Pending
+13,2,Oncoqycx,Cardiology,Biologic,Expired
+14,14,Endoudrd,Oncology,Gene Therapy,Granted
+15,20,Immunokibc,Endocrinology,Vaccine,Expired
+16,1,Oncotwxs,Endocrinology,Vaccine,Expired
+17,11,Oncomrvo,Neurology,Gene Therapy,Pending
+18,15,Oncotpap,Neurology,Biologic,Expired
+19,4,Neurogjcp,Endocrinology,Biologic,Pending
+20,12,Cardioyirz,Endocrinology,Small Molecule,Expired
+21,11,Immunotstu,Oncology,Small Molecule,Granted
+22,10,Cardiodpfv,Oncology,Biologic,Expired
+23,3,Oncoeusr,Immunology,Small Molecule,Expired
+24,5,Cardioqgks,Immunology,Biologic,Granted
+25,17,Endorabm,Immunology,Biologic,Expired
+26,7,Neurobjyb,Immunology,Vaccine,Granted
+27,17,Immunoyueu,Oncology,Biologic,Pending
+28,3,Neurokpvh,Oncology,Biologic,Expired
+29,8,Oncomgoq,Oncology,Small Molecule,Pending
+30,3,Oncopnne,Neurology,Small Molecule,Expired
+31,8,Neurowria,Immunology,Biologic,Expired
+32,5,Endomatq,Endocrinology,Gene Therapy,Pending
+33,16,Immunohruc,Cardiology,Small Molecule,Pending
+34,14,Neurojyfn,Immunology,Gene Therapy,Granted
+35,2,Oncoxtpc,Oncology,Gene Therapy,Expired
+36,11,Oncooavc,Cardiology,Biologic,Pending
+37,18,Immunosfxg,Cardiology,Gene Therapy,Pending
+38,9,Immunovkcf,Cardiology,Small Molecule,Granted
+39,18,Oncooeaa,Oncology,Small Molecule,Pending
+40,8,Cardiozyiv,Immunology,Gene Therapy,Granted
+41,7,Immunouwvi,Oncology,Biologic,Granted
+42,1,Immunoxvvc,Neurology,Gene Therapy,Granted
+43,14,Endojvde,Immunology,Biologic,Pending
+44,10,Cardiopaoi,Oncology,Small Molecule,Expired
+45,11,Oncoqiry,Oncology,Gene Therapy,Expired
+46,17,Cardiolxoy,Oncology,Small Molecule,Pending
+47,3,Endofibe,Oncology,Biologic,Granted
+48,4,Endoffyq,Cardiology,Small Molecule,Expired
+49,3,Immunoqgip,Endocrinology,Vaccine,Granted
+50,7,Neurodbzs,Cardiology,Vaccine,Granted
